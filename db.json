@@ -1,0 +1,134 @@
+{
+    "Produtos":[
+        {
+            "id": 1,
+            "nome": "Pipoca P",
+            "image url": "https://beagaembalagem.com.br/wp-content/uploads/2014/09/saco-pipoca.jpg",
+            "descricao": "Embalagem pequena.",
+            "preco": 3.5,
+            "categoria_id": 1
+
+        },
+        {
+            "id": 2,
+            "nome":"Pipoca M",
+            "image url": "https://a-static.mlcdn.com.br/1500x1500/embalagem-para-pipoca-m-adg-embalagens/adgembalagens/c28fd740c2fe11ebbe3d4201ac18500e/42e6a0a0646a4a1d3f3c7c876f4dadca.jpeg",
+            "descricao":"Embalagem média.",
+            "preco": 6.0,
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "nome":"Pipoca G",
+            "image url": "https://img.freepik.com/vetores-premium/recipiente-de-caixa-listrada-com-deliciosa-pipoca-em-fundo-branco_281653-1140.jpg?w=360",
+            "descricao": "Balde de pipoca.",
+            "preco": 9.5,
+            "categoria_id":1
+        },
+        {
+            "id": 4,
+            "nome": "Coca cola 300ml",
+            "image url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZD-6PB-7pVwxDQ0PSEwUQcfdWIszrsgBSSHCACwgJRbAsqEX4YAd1TvzLddD9PzGQas&usqp=CAU",
+            "descricao": "Copo de plastico de 300ml.",
+            "preco": 6.0,
+            "categoria_id": 2
+        },
+        {
+            "id": 5,
+            "nome": "Coca cola 400ml",
+            "image url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9BzGdGHCuz-cOBVwgff5E7uk66aGdqxU9teaZGzrkwo4LQn_9ymYlVuWzLNd7Uicx78&usqp=CAU",
+            "descricao": "Copo de plastico de 400ml.",
+            "preco": 8.0,
+            "categoria_id": 2
+        },
+        {
+            "id": 6,
+            "nome": "Coca cola 500ml",
+            "image url": "https://http2.mlstatic.com/D_NQ_NP_815786-MLB42323507791_062020-O.jpg",
+            "descricao": "Copo de plastico de 500ml.",
+            "preco": 10.0,
+            "categoria_id": 2
+        },
+        {
+            "id": 7,
+            "nome": "M&M 148g",
+            "image url": "https://imgs.extra.com.br/1500102013/1xg.jpg?imwidth=500",
+            "descricao": "Confeito m&m de chocolate ao leite 148g.",
+            "preco": 9.99,
+            "categoria_id": 3
+        },
+        {
+            "id": 8,
+            "nome": "M&M 45g",
+            "image url": "https://static.clubeextra.com.br/img/uploads/1/451/21512451.jpg",
+            "descricao": "Confeito m&m de chocolate ao leite 45g.",
+            "preco": 5.93,
+            "categoria_id": 3
+        },
+        {
+            "id": 9,
+            "nome": "M&M tubo",
+            "image url": "https://static.clubeextra.com.br/img/uploads/1/431/18792431.jpg",
+            "descricao": "Confeito m&m de chocolate ao leite tubo 30g",
+            "preco": 2.99,
+            "categoria_id": 3
+        }
+    ],
+    "catalogo":[
+        { 
+            "id":1,
+            "image url": "https://calendariocinemark.cinemark.com.br/wp-content/uploads/2022/03/Pantera-Negra-2.webp",
+            "movies": "Pantera Negra: Wakanda Forever",
+            "genero": "Ação/Aventura",
+            "duracao": "2h 42m",
+            "classificacao": 12,
+            "categoria_id": 4
+        },
+        {
+            "id":2,
+            "image url": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+            "movies": "Avatar: O caminho da água",
+            "genero": "Ficção Científica",
+            "duracao": "3h 10m",
+            "classificacao": 14,
+            "categoria_id": 4
+
+        },
+        {
+            "id": 3,
+            "image url": "https://br.web.img3.acsta.net/pictures/22/10/26/18/38/5690142.jpg",
+            "movies": "Pronto, Falei",
+            "genero": "Comédia",
+            "duracao": "1h 30m",
+            "classificacao": 14,
+            "categoria_id": 4
+        },
+        {
+            "id": 4,
+            "image url": "https://www.ucicinemas.com.br/Content/Upload/Filmes/Posters/10770/filme_10770.jpg",
+            "movies": "O Menu",
+            "genero": "Terror/Suspense",
+            "duracao": "1h 47m",
+            "classificacao": 16 ,
+            "categoria_id": 4
+        }
+    ],
+    "categoria":[
+        {
+            "id":1,
+            "nome":"Salgado"
+        },
+        {
+            "id":2,
+            "nome": "bebida"
+        },
+        {
+            "id":3,
+            "nome": "doce"
+        },
+        {
+            "id":4,
+            "nome": "Em cartaz"
+        }
+    ]
+}
