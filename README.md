@@ -10,9 +10,9 @@
 - Acesse o servidor remoto (https://api-de-cinema.onrender.com)
  
  Resources
-  http://localhost:3000/Produtos
-  http://localhost:3000/catalogo
-  http://localhost:3000/categoria
+  http://localhost:3000/Produtos<br>
+  http://localhost:3000/catalogo<br>
+  http://localhost:3000/categoria<br>
 
   
 
